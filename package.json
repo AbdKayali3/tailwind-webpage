@@ -3,7 +3,7 @@
     "tailwindcss": "^3.3.2"
   },
   "scripts": {
-    "start": "tailwindcss -i ./src/styles.css -o ./dist/styles.css",
+    "start": "tailwindcss -i ./src/styles.css -o ./dist/styles.css --watch",
     "test": ""
   }
 }
